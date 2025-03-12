@@ -1,3 +1,3 @@
-# Vuetify
+# Vuetify Docs
 
-List of all vuetify components
+Search all Vuetify components and open the official documentation directly from Raycast.
