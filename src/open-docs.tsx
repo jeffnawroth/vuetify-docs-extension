@@ -1,6 +1,5 @@
 import { open, captureException, showToast, Toast } from "@raycast/api";
 
-
 export default async function Command() {
   const url = "https://vuetifyjs.com/en/";
   try {

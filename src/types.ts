@@ -1,17 +1,17 @@
 export enum Filter {
   ALL = "All",
-  CONTAINMENT= "Containment",
-  NAVIGATION= "Navigation",
-  FORM_INPUTS_CONTROLS= "Form Inputs and controls",
-  LAYOUTS= "Layouts",
-  SELECTION= "Selection",
-  DATA_DISPLAY= "Data and display",
-  FEEDBACK= "Feedback",
-  IMAGES_ICONS= "Images and icons",
-  PICKERS= "Pickers",
-  PROVIDERS= "Providers",
-  MISCELLANEOUS= "Miscellaneous",
-};
+  CONTAINMENT = "Containment",
+  NAVIGATION = "Navigation",
+  FORM_INPUTS_CONTROLS = "Form Inputs and controls",
+  LAYOUTS = "Layouts",
+  SELECTION = "Selection",
+  DATA_DISPLAY = "Data and display",
+  FEEDBACK = "Feedback",
+  IMAGES_ICONS = "Images and icons",
+  PICKERS = "Pickers",
+  PROVIDERS = "Providers",
+  MISCELLANEOUS = "Miscellaneous",
+}
 
 export enum ComponentCategory {
   CONTAINMENT = "Containment",
@@ -24,7 +24,7 @@ export enum ComponentCategory {
   IMAGES_ICONS = "Images and icons",
   PICKERS = "Pickers",
   PROVIDERS = "Providers",
-  MISC = "Miscellaneous"
+  MISC = "Miscellaneous",
 }
 
 export interface Component {
