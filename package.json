@@ -4,7 +4,7 @@
   "title": "Vuetify Docs",
   "description": "Search all Vuetify components and open the official documentation directly from Raycast.",
   "icon": "v-logo.png",
-  "author": "jeff_nawroth",
+  "author": "jeffnawroth",
   "categories": [
     "Documentation"
   ],

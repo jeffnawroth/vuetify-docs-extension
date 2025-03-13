@@ -1,3 +1,4 @@
 # Vuetify Docs
 
-Search all Vuetify components and open the official documentation directly from Raycast.
+Raycast extension to browse [vuetify](https://vuetifyjs.com/en/) documentation and components
+
