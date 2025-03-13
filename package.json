@@ -23,6 +23,13 @@
       "description": "Opens the homepage of the Vuetify documentation",
       "icon": "v-logo.png",
       "mode": "no-view"
+    },
+    {
+      "name": "search-documentation",
+      "title": "Search Documentation",
+      "description": "Search the Vuetify documentation",
+      "icon": "v-logo.png",
+      "mode": "view"
     }
   ],
   "dependencies": {

@@ -1,5 +1,5 @@
 import { ActionPanel, Action, List } from "@raycast/api";
-import sections from "./sections";
+import components from "./components";
 import { Filter } from "./types";
 import { useState } from "react";
 
@@ -16,10 +16,10 @@ export default function Command() {
 
   const filteredSections = (() => {
     if (state.filter === Filter.ALL) {
-      return sections ?? [];
+      return components ?? [];
     }
 
-    return sections?.filter((section) => section.section === state.filter) ?? [];
+    return components?.filter((section) => section.section === state.filter) ?? [];
   })();
 
   return (
