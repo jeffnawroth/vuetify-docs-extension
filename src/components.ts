@@ -394,7 +394,7 @@ const components: Section[] = [
       {
         title: "Treeview",
         url: "https://vuetifyjs.com/en/components/treeview/",
-      }
+      },
     ],
   },
 ];
