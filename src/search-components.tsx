@@ -56,6 +56,7 @@ export default function Command() {
             <List.Item
               key={item.title}
               title={item.title}
+              icon="v-logo.png"
               actions={
                 <ActionPanel>
                   <Action.OpenInBrowser url={item.url} />
