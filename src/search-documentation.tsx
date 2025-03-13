@@ -32,7 +32,11 @@ export default function Command() {
           onChange={(newValue) => setState((previous) => ({ ...previous, filter: newValue as SectionFilter }))}
         >
           {Object.keys(SectionFilter).map((key) => (
-            <List.Dropdown.Item key={key} title={SectionFilter[key as SectionFilterString]} value={SectionFilter[key as SectionFilterString]} />
+            <List.Dropdown.Item
+              key={key}
+              title={SectionFilter[key as SectionFilterString]}
+              value={SectionFilter[key as SectionFilterString]}
+            />
           ))}
         </List.Dropdown>
       }

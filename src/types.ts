@@ -42,4 +42,3 @@ export enum SectionFilter {
 }
 
 export type SectionFilterString = keyof typeof SectionFilter;
-

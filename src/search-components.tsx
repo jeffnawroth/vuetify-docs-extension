@@ -32,7 +32,11 @@ export default function Command() {
           onChange={(newValue) => setState((previous) => ({ ...previous, filter: newValue as ComponentFilter }))}
         >
           {Object.keys(ComponentFilter).map((key) => (
-            <List.Dropdown.Item key={key} title={ComponentFilter[key as ComponentFilterString]} value={ComponentFilter[key as ComponentFilterString]} />
+            <List.Dropdown.Item
+              key={key}
+              title={ComponentFilter[key as ComponentFilterString]}
+              value={ComponentFilter[key as ComponentFilterString]}
+            />
           ))}
         </List.Dropdown>
       }
