@@ -5,56 +5,56 @@ const components: Section[] = [
     title: "Containment",
     items: [
       {
-        title: "Button Component",
-        url: "https://vuetifyjs.com/en/components/buttons/", 
+        title: "Button",
+        url: "https://vuetifyjs.com/en/components/buttons/",
       },
       {
-        title: "Card Components",
-        url: "https://vuetifyjs.com/en/components/cards/", 
+        title: "Card",
+        url: "https://vuetifyjs.com/en/components/cards/",
       },
       {
-        title: "List Components",
-        url: "https://vuetifyjs.com/en/components/lists/", 
+        title: "List",
+        url: "https://vuetifyjs.com/en/components/lists/",
       },
       {
-        title: "Chip Component",
-        url: "https://vuetifyjs.com/en/components/chips/", 
+        title: "Chip",
+        url: "https://vuetifyjs.com/en/components/chips/",
       },
       {
-        title: "Divider Components",
-        url: "https://vuetifyjs.com/en/components/dividers/", 
+        title: "Divider",
+        url: "https://vuetifyjs.com/en/components/dividers/",
       },
       {
-        title: "Expansion Panel Components",
-        url: "https://vuetifyjs.com/en/components/expansion-panels/", 
+        title: "Expansion Panel",
+        url: "https://vuetifyjs.com/en/components/expansion-panels/",
       },
       {
-        title: "Menu Component",
-        url: "https://vuetifyjs.com/en/components/menus/", 
+        title: "Menu",
+        url: "https://vuetifyjs.com/en/components/menus/",
       },
       {
-        title: "Dialog Component",
-        url: "https://vuetifyjs.com/en/components/dialogs/", 
+        title: "Dialog",
+        url: "https://vuetifyjs.com/en/components/dialogs/",
       },
       {
-        title: "Bottom Sheet Component",
-        url: "https://vuetifyjs.com/en/components/bottom-sheets/", 
+        title: "Bottom Sheet",
+        url: "https://vuetifyjs.com/en/components/bottom-sheets/",
       },
       {
-        title: "Overlay Component",
-        url: "https://vuetifyjs.com/en/components/overlays/",  
+        title: "Overlay",
+        url: "https://vuetifyjs.com/en/components/overlays/",
       },
       {
-        title: "Toolbar Components",
-        url: "https://vuetifyjs.com/en/components/toolbars/", 
+        title: "Toolbar",
+        url: "https://vuetifyjs.com/en/components/toolbars/",
       },
       {
-        title: "Tooltip Component",
-        url: "https://vuetifyjs.com/en/components/tooltips/", 
+        title: "Tooltip",
+        url: "https://vuetifyjs.com/en/components/tooltips/",
       },
       {
-        title: "Sheet Component",
-        url: "https://vuetifyjs.com/en/components/sheets/", 
+        title: "Sheet",
+        url: "https://vuetifyjs.com/en/components/sheets/",
       },
     ],
   },
@@ -62,44 +62,44 @@ const components: Section[] = [
     title: "Navigation",
     items: [
       {
-        title: "App Bars",
-        url: "https://vuetifyjs.com/en/components/app-bars/", 
+        title: "App Bar",
+        url: "https://vuetifyjs.com/en/components/app-bars/",
       },
       {
-        title: "FABs",
-        url: "https://vuetifyjs.com/en/components/floating-action-buttons/", 
+        title: "Floating Action Button",
+        url: "https://vuetifyjs.com/en/components/floating-action-buttons/",
       },
       {
-        title: "Navigation Drawers",
-        url: "https://vuetifyjs.com/en/components/navigation-drawers/", 
+        title: "Navigation Drawer",
+        url: "https://vuetifyjs.com/en/components/navigation-drawers/",
       },
       {
-        title: "Pagination Component",
-        url: "https://vuetifyjs.com/en/components/paginations/", 
+        title: "Pagination",
+        url: "https://vuetifyjs.com/en/components/paginations/",
       },
       {
         title: "Bottom Navigation",
-        url: "https://vuetifyjs.com/en/components/bottom-navigation/", 
+        url: "https://vuetifyjs.com/en/components/bottom-navigation/",
       },
       {
-        title: "Breadcrumbs Components",
-        url: "https://vuetifyjs.com/en/components/breadcrumbs/", 
+        title: "Breadcrumbs",
+        url: "https://vuetifyjs.com/en/components/breadcrumbs/",
       },
       {
-        title: "Footer Component",
-        url: "https://vuetifyjs.com/en/components/footers/", 
+        title: "Footer",
+        url: "https://vuetifyjs.com/en/components/footers/",
       },
       {
-        title: "Speed Dials",
-        url: "https://vuetifyjs.com/en/components/speed-dials/", 
+        title: "Speed Dial",
+        url: "https://vuetifyjs.com/en/components/speed-dials/",
       },
       {
         title: "System Bar",
-        url: "https://vuetifyjs.com/en/components/system-bars/", 
+        url: "https://vuetifyjs.com/en/components/system-bars/",
       },
       {
-        title: "Tabs Components",
-        url: "https://vuetifyjs.com/en/components/tabs/", 
+        title: "Tabs",
+        url: "https://vuetifyjs.com/en/components/tabs/",
       },
     ],
   },
@@ -107,60 +107,60 @@ const components: Section[] = [
     title: "Form inputs and controls",
     items: [
       {
-        title: "Autocomplete Component",
-        url: "https://vuetifyjs.com/en/components/autocompletes/", 
+        title: "Autocomplete",
+        url: "https://vuetifyjs.com/en/components/autocompletes/",
       },
       {
-        title: "Combobox Components",
-        url: "https://vuetifyjs.com/en/components/combobox/", 
+        title: "Combobox",
+        url: "https://vuetifyjs.com/en/components/combobox/",
       },
       {
         title: "Text Field",
-        url: "https://vuetifyjs.com/en/components/text-fields/", 
+        url: "https://vuetifyjs.com/en/components/text-fields/",
       },
       {
-        title: "Checkbox Components",
-        url: "https://vuetifyjs.com/en/components/checkboxes/", 
+        title: "Checkbox",
+        url: "https://vuetifyjs.com/en/components/checkboxes/",
       },
       {
-        title: "Switch Components",
-        url: "https://vuetifyjs.com/en/components/switches/", 
+        title: "Switch",
+        url: "https://vuetifyjs.com/en/components/switches/",
       },
       {
-        title: "Radio Button",
-        url: "https://vuetifyjs.com/en/components/radio-buttons/", 
+        title: "Radio",
+        url: "https://vuetifyjs.com/en/components/radio-buttons/",
       },
       {
         title: "File Input",
-        url: "https://vuetifyjs.com/en/components/file-inputs/", 
+        url: "https://vuetifyjs.com/en/components/file-inputs/",
       },
       {
-        title: "Form Component",
-        url: "https://vuetifyjs.com/en/components/forms/", 
+        title: "Form",
+        url: "https://vuetifyjs.com/en/components/forms/",
       },
       {
-        title: "Inputs Component",
-         url: "https://vuetifyjs.com/en/components/inputs/",
+        title: "Input",
+        url: "https://vuetifyjs.com/en/components/inputs/",
       },
       {
-        title: "OTP Input Component",
-        url: "https://vuetifyjs.com/en/components/otp-input/", 
+        title: "OTP Input",
+        url: "https://vuetifyjs.com/en/components/otp-input/",
       },
       {
-        title: "Select Component",
-        url: "https://vuetifyjs.com/en/components/selects/", 
+        title: "Select",
+        url: "https://vuetifyjs.com/en/components/selects/",
       },
       {
-        title: "Slider Component",
-        url: "https://vuetifyjs.com/en/components/sliders/", 
+        title: "Slider",
+        url: "https://vuetifyjs.com/en/components/sliders/",
       },
       {
         title: "Range Slider",
-        url: "https://vuetifyjs.com/en/components/range-sliders/", 
+        url: "https://vuetifyjs.com/en/components/range-sliders/",
       },
       {
-        title: "Textarea Component",
-        url: "https://vuetifyjs.com/en/components/textareas/", 
+        title: "Textarea",
+        url: "https://vuetifyjs.com/en/components/textareas/",
       },
     ],
   },
@@ -168,8 +168,8 @@ const components: Section[] = [
     title: "Layouts",
     items: [
       {
-        title: "Grids",
-        url: "https://vuetifyjs.com/en/components/grids/", 
+        title: "Grid",
+        url: "https://vuetifyjs.com/en/components/grids/",
       },
     ],
   },
@@ -177,23 +177,23 @@ const components: Section[] = [
     title: "Selection",
     items: [
       {
-        title: "Carousel Component",
-        url: "https://vuetifyjs.com/en/components/carousels/", 
+        title: "Carousel",
+        url: "https://vuetifyjs.com/en/components/carousels/",
       },
       {
         title: "Button Group",
-        url: "https://vuetifyjs.com/en/components/button-groups/", 
+        url: "https://vuetifyjs.com/en/components/button-groups/",
       },
       {
         title: "Chip Group",
-        url: "https://vuetifyjs.com/en/components/chip-groups/", 
+        url: "https://vuetifyjs.com/en/components/chip-groups/",
       },
-       {
-        title: "Window Components",
+      {
+        title: "Window",
         url: "https://vuetifyjs.com/en/components/windows/",
       },
       {
-        title: "Stepper Components",
+        title: "Stepper",
         url: "https://vuetifyjs.com/en/components/steppers/",
       },
     ],
@@ -202,39 +202,39 @@ const components: Section[] = [
     title: "Data and display",
     items: [
        {
-        title: "Confirm Edit Component",
+        title: "Confirm Edit",
         url: "https://vuetifyjs.com/en/components/confirm-edit/",
       },
       {
-        title: "Data Iterator Component",
+        title: "Data Iterator",
         url: "https://vuetifyjs.com/en/components/data-iterators/",
       },
       {
-        title: "Data Table Component",
+        title: "Data Table",
         url: "https://vuetifyjs.com/en/components/data-tables/",
       },
-       {
-        title: "Infinite Scroll Component",
+      {
+        title: "Infinite Scroller",
         url: "https://vuetifyjs.com/en/components/infinite-scroller/",
       },
-      {
-        title: "Server Side Table Component",
+       {
+        title: "Server Side Table",
         url: "https://vuetifyjs.com/en/components/data-tables/server-side-tables/",
       },
-       {
-        title: "Sparkline Component",
+      {
+        title: "Sparkline",
         url: "https://vuetifyjs.com/en/components/sparklines/",
       },
       {
-        title: "Virtual Data Table Component",
-        url: "https://vuetifyjs.com/en/components/data-tables/virtual-tables/", 
+        title: "Virtual Data Table",
+        url: "https://vuetifyjs.com/en/components/data-tables/virtual-tables/",
       },
       {
-        title: "Table Component",
+        title: "Table",
         url: "https://vuetifyjs.com/en/components/tables/",
       },
       {
-        title: "Virtual Scroll Component",
+        title: "Virtual Scroller",
         url: "https://vuetifyjs.com/en/components/virtual-scroller/",
       },
     ],
@@ -243,47 +243,47 @@ const components: Section[] = [
     title: "Feedback",
     items: [
       {
-        title: "Alert Component",
+        title: "Alert",
         url: "https://vuetifyjs.com/en/components/alerts/",
       },
       {
-        title: "Badge Component",
+        title: "Badge",
         url: "https://vuetifyjs.com/en/components/badges/",
       },
       {
-        title: "Banner Component",
+        title: "Banner",
         url: "https://vuetifyjs.com/en/components/banners/",
       },
-       {
-        title: "Empty State Component",
+      {
+        title: "Empty State",
         url: "https://vuetifyjs.com/en/components/empty-states/",
       },
       {
-        title: "Skeleton Loader Component",
+        title: "Skeleton Loader",
         url: "https://vuetifyjs.com/en/components/skeleton-loaders/",
       },
       {
-        title: "Snackbar Component",
+        title: "Snackbar",
         url: "https://vuetifyjs.com/en/components/snackbars/",
       },
       {
-        title: "Rating Component",
+        title: "Rating",
         url: "https://vuetifyjs.com/en/components/ratings/",
       },
       {
-        title: "Timeline Components",
+        title: "Timeline",
         url: "https://vuetifyjs.com/en/components/timelines/",
       },
-       {
-        title: "Hover Component",
+      {
+        title: "Hover",
         url: "https://vuetifyjs.com/en/components/hover/",
       },
       {
-        title: "Progress Circular Component",
+        title: "Progress Circular",
         url: "https://vuetifyjs.com/en/components/progress-circular/",
       },
       {
-        title: "Progress Linear Component",
+        title: "Progress Linear",
         url: "https://vuetifyjs.com/en/components/progress-linear/",
       },
     ],
@@ -292,23 +292,23 @@ const components: Section[] = [
     title: "Images and icons",
     items: [
       {
-        title: "Aspect Ratios Component",
+        title: "Aspect Ratio",
         url: "https://vuetifyjs.com/en/components/aspect-ratios/",
       },
       {
-        title: "Avatar Component",
+        title: "Avatar",
         url: "https://vuetifyjs.com/en/components/avatars/",
       },
       {
-        title: "Icon Component",
+        title: "Icon",
         url: "https://vuetifyjs.com/en/components/icons/",
       },
       {
-        title: "Image Component",
+        title: "Image",
         url: "https://vuetifyjs.com/en/components/images/",
       },
       {
-        title: "Parallax Component",
+        title: "Parallax",
         url: "https://vuetifyjs.com/en/components/parallax/",
       },
     ],
@@ -317,11 +317,11 @@ const components: Section[] = [
     title: "Pickers",
     items: [
       {
-        title: "Color Picker Component",
+        title: "Color Picker",
         url: "https://vuetifyjs.com/en/components/color-pickers/",
       },
       {
-        title: "Date Picker Component",
+        title: "Date Picker",
         url: "https://vuetifyjs.com/en/components/date-pickers/",
       },
     ],
@@ -330,15 +330,15 @@ const components: Section[] = [
     title: "Providers",
     items: [
       {
-        title: "Defaults Provider Component",
+        title: "Defaults Provider",
         url: "https://vuetifyjs.com/en/components/defaults-providers/",
       },
       {
-        title: "Locale Provider Component",
+        title: "Locale Provider",
         url: "https://vuetifyjs.com/en/components/locale-providers/",
       },
       {
-        title: "Theme Provider Component",
+        title: "Theme Provider",
         url: "https://vuetifyjs.com/en/components/theme-providers/",
       },
     ],
@@ -347,11 +347,11 @@ const components: Section[] = [
     title: "Miscellaneous",
     items: [
       {
-        title: "Lazy Component",
+        title: "Lazy",
         url: "https://vuetifyjs.com/en/components/lazy/",
       },
       {
-        title: "No SSR Component",
+        title: "No SSR",
         url: "https://vuetifyjs.com/en/components/no-ssr/",
       },
     ],
