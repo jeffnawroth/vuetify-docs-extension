@@ -201,7 +201,7 @@ const components: Section[] = [
   {
     title: "Data and display",
     items: [
-       {
+      {
         title: "Confirm Edit",
         url: "https://vuetifyjs.com/en/components/confirm-edit/",
       },
@@ -217,7 +217,7 @@ const components: Section[] = [
         title: "Infinite Scroller",
         url: "https://vuetifyjs.com/en/components/infinite-scroller/",
       },
-       {
+      {
         title: "Server Side Table",
         url: "https://vuetifyjs.com/en/components/data-tables/server-side-tables/",
       },
