@@ -51,8 +51,7 @@ export default function Command() {
       }}
     >
       {filteredSections.map((section, index) => (
-        <List.Section key={index} title={section.title
-        }>
+        <List.Section key={index} title={section.title}>
           {section.items.map((item) => (
             <List.Item
               key={item.title}

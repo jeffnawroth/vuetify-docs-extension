@@ -1,6 +1,6 @@
 import { Section } from "./types";
 
-const components: Section[] =  [
+const components: Section[] = [
   {
     title: "Containment",
     items: [
