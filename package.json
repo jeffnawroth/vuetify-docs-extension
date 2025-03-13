@@ -6,14 +6,15 @@
   "icon": "v-logo.png",
   "author": "jeffnawroth",
   "categories": [
-    "Documentation"
+    "Documentation",
+    "Developer Tools"
   ],
   "license": "MIT",
   "commands": [
     {
       "name": "search-components",
       "title": "Search Components",
-      "description": "Search all Vuetify components and open the official documentation",
+      "description": "Search Vuetify components and open the documentation in the browser",
       "icon": "v-logo.png",
       "mode": "view"
     },
@@ -27,7 +28,7 @@
     {
       "name": "search-documentation",
       "title": "Search Documentation",
-      "description": "Search the Vuetify documentation",
+      "description": "Search the Vuetify documentation and open it in the browser",
       "icon": "v-logo.png",
       "mode": "view"
     }
