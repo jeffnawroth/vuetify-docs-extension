@@ -1,4 +1,14 @@
-export enum Filter {
+export interface Section {
+  title: string;
+  items: SectionItem[];
+}
+
+interface SectionItem {
+  title: string;
+  url: string;
+}
+
+export enum ComponentFilter {
   ALL = "All",
   CONTAINMENT = "Containment",
   NAVIGATION = "Navigation",
@@ -11,43 +21,6 @@ export enum Filter {
   PICKERS = "Pickers",
   PROVIDERS = "Providers",
   MISCELLANEOUS = "Miscellaneous",
-}
-
-// export enum ComponentCategory {
-//   CONTAINMENT = "Containment",
-//   NAVIGATION = "Navigation",
-//   FORM_INPUTS_CONTROLS = "Form inputs and controls",
-//   LAYOUTS = "Layouts",
-//   SELECTION = "Selection",
-//   DATA_DISPLAY = "Data and display",
-//   FEEDBACK = "Feedback",
-//   IMAGES_ICONS = "Images and icons",
-//   PICKERS = "Pickers",
-//   PROVIDERS = "Providers",
-//   MISC = "Miscellaneous",
-// }
-
-// export interface Component {
-//   name: string;
-//   description: string;
-//   url: string;
-// }
-
-// export interface ComponentCategoryGroup {
-//   name: ComponentCategory;
-//   description?: string;
-//   components: Component[];
-// }
-
-// Sections
-export interface Section {
-  title: string;
-  items: SectionItem[];
-}
-
-interface SectionItem {
-  title: string;
-  url: string;
 }
 
 export enum SectionFilter {
